@@ -1,7 +1,7 @@
 
 # Get started
 
-Make sure you read and follow all the instructions here. Otherwise, I assure you **will** break the robot. **Ask**, if you do not understand anything mentioned below. Take you time to read and think!
+Make sure you read and follow all the instructions here. Otherwise, I assure you **will** break the robot. **Ask**, if you do not understand anything mentioned below. Take you time to read and think! Never jump around.
 
 ## Deoxys
 
@@ -29,9 +29,7 @@ some other useful links:
 
 ## Operational Space Controller Example
 
-I have provided an operational space + kp controller [example](https://github.com/UT-Austin-RobIn/panda_robot/blob/main/OSC_POSE_variable_kp.py) in this repo. **Please** read through each line of the code, if you do not understand why I have certain line there, **ask**.
-
-The example code will need to run under **sudo** because the force sensor part of it will access the serial port. If you remove it, no need for sudo anymore.
+I have provided an operational space + kp controller [example](https://github.com/UT-Austin-RobIn/panda_robot/blob/main/OSC_POSE_variable_kp.py) in this repo. **Please** read through each line of the code, if you do not understand why I have certain line there, **ask**. The example code will need to run under **sudo** because the force sensor part of it will access the serial port. If you remove it, no need for sudo anymore. There is a safety check for force limit over 20N. If you do not calibrate the force sensor well, the safety check will not work properly.
 
 
 ---
