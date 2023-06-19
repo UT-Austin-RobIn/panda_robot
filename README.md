@@ -1,3 +1,4 @@
+
 # Get started
 
 Make sure you read and follow all the instructions here. Otherwise, I assure you **will** break the robot. **Ask**, if you do not understand anything mentioned below. Take you time to read and think!
@@ -17,9 +18,11 @@ I have created a python module for reading the forces. You can skim through it a
 
 some other useful links:
 
-Official code [example](https://gitlab.com/botasys/python_interface/-/blob/main/examples/bota_serial_example.py) of using the sensor
+ - Official code    [example](https://gitlab.com/botasys/python_interface/-/blob/main/examples/bota_serial_example.py)    of using the sensor
 
-Sensor structure [STL](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/meshes/BFT_SENS_M8/mounting.STL) and [URDF](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/urdf/BFT_SENS_SER_M8_robot.urdf.xacro) (you will need for calibrating the kinematic model)
+- Sensor structure [STL](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/meshes/BFT_SENS_M8/mounting.STL) and [URDF](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/urdf/BFT_SENS_SER_M8_robot.urdf.xacro) (you will need for calibrating the kinematic model)
+
+
 
 
 ## Operational Space Controller Example
