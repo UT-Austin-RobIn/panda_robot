@@ -7,7 +7,13 @@ Make sure you read and follow all the instructions here. Otherwise, I assure you
 
 [Deoxys](https://ut-austin-rpl.github.io/deoxys-docs/html/) is a real-time controller library for Franka Emika Panda. To correctly deploy your policy on the real robot, you should read through the **whole** document. Especially, pay more attention to the [tutorial](https://ut-austin-rpl.github.io/deoxys-docs/html/tutorials/running_robots.html).
 
-Notice: use ```./auto_scripts/auto_arm.sh config/charmander.yml``` to start the controller on NUC.
+Notice: 
+
+use ```./auto_scripts/auto_arm.sh config/charmander.yml``` to start the controller on NUC.
+
+You can find FCI mode in here.
+![image](https://github.com/UT-Austin-RobIn/panda_robot/assets/37442704/418f03bb-920c-4acb-addf-b99d99e2f0ac)
+
 
 ## Force Sensor
 
