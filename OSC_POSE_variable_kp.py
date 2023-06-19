@@ -201,7 +201,7 @@ def force_checking():
     while True:
         # get force reading from the force sensor
         force = force_sensor.get_force_obs()
-        print(force)
+#         print(force)
         # if force is > 20N, enter gravity compensation mode
         if np.linalg.norm(force) > 20:
             exit()
