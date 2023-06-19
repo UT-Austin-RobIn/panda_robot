@@ -10,7 +10,7 @@ Make sure you read and follow all the instructions here. Otherwise, I assure you
 
 We have a SensONE 6-axis Force/Torque sensor mount to the end-effector of the robot.
 1.	Read the official user [manual](http://www.jwcorporation.kr/wp-content/catal/BOTASYSTEMS.pdf) to know what this product is about, it is more than just a force/toque sensor!
-2.	Read the official [FAQ](https://www.botasys.com/faq) to know what internal calibration and external calibration are. You will need to do external calibration before you use it.
+2.	Read the official [FAQ](https://www.botasys.com/faq) to know what internal calibration and external calibration are. You will need to do external calibration before you use.
 
 Use the code here!!! to calibrate the force sensor, try to find the offset and save it.
 I have created a python module for reading the forces. You can skim through it although you do not have to understand everything, it is modified based on the official code example list below. 
