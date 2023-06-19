@@ -51,7 +51,7 @@ class OSC_POSE_variable_kp:
         # self.force_sensor = ForceSensor("/dev/ttyUSB0", np.array([-10.982798427581788, -144.29237174987793, 9.55335311985016]))
         # self.force_sensor.force_sensor_setup()
 
-        self.too_much_force = True
+        self.too_much_force = False
         
     
     # take a look at the yml file before deploy your policy
