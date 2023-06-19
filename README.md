@@ -17,7 +17,7 @@ Notice:
 - To have Deoxys run on our robot, you will need to remove all the safety rules on the robot's web interface.
 
 
-## Force Sensor
+## Force/Torque Sensor
 
 We have a SensONE 6-axis Force/Torque sensor mount to the end-effector of the robot.
 1.	Read the official user [manual](http://www.jwcorporation.kr/wp-content/catal/BOTASYSTEMS.pdf) to know what this product is about, it is more than just a force/toque sensor!
