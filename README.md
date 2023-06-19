@@ -1,5 +1,5 @@
 
-# Get started
+# Get Started
 
 Make sure you read and follow all the instructions here. Otherwise, I assure you **will** break the robot. **Ask**, if you do not understand anything mentioned below. Take you time to read and think! Never jumping around.
 
