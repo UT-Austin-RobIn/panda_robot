@@ -22,7 +22,7 @@ Sensor structure [STL](https://gitlab.com/botasys/bota_driver/-/blob/master/roku
 
 ## Operational Space Controller Example
 
-I have provided an operational space controller example!!!!! in this repo. Please read through every lines of code, if you do not understand why I have certain line there, **ask**.
+I have provided an operational space + kp controller example!!!!! in this repo. Please read through every lines of code, if you do not understand why I have certain line there, **ask**.
 
 
 ---
