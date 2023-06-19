@@ -16,6 +16,7 @@ Use the code [here](https://github.com/UT-Austin-RobIn/panda_robot/blob/main/for
 I have created a python module for reading the forces. You can skim through it although you do not have to understand everything, it is modified based on the official code example list below. 
 
 some other useful links:
+
 Official code [example](https://gitlab.com/botasys/python_interface/-/blob/main/examples/bota_serial_example.py) of using the sensor
 
 Sensor structure [STL](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/meshes/BFT_SENS_M8/mounting.STL) and [URDF](https://gitlab.com/botasys/bota_driver/-/blob/master/rokubimini_description/urdf/BFT_SENS_SER_M8_robot.urdf.xacro) (you will need for calibrating the kinematic model)
