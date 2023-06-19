@@ -7,6 +7,8 @@ Make sure you read and follow all the instructions here. Otherwise, I assure you
 
 [Deoxys](https://ut-austin-rpl.github.io/deoxys-docs/html/) is a real-time controller library for Franka Emika Panda. To correctly deploy your policy on the real robot, you should read through the **whole** document. Especially, pay more attention to the [tutorial](https://ut-austin-rpl.github.io/deoxys-docs/html/tutorials/running_robots.html).
 
+Notice: use >./auto_scripts/auto_arm.sh config/charmander.yml
+
 ## Force Sensor
 
 We have a SensONE 6-axis Force/Torque sensor mount to the end-effector of the robot.
