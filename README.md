@@ -22,7 +22,9 @@ Sensor structure [STL](https://gitlab.com/botasys/bota_driver/-/blob/master/roku
 
 ## Operational Space Controller Example
 
-I have provided an operational space + kp controller example!!!!! in this repo. Please read through every lines of code, if you do not understand why I have certain line there, **ask**.
+I have provided an operational space + kp controller [example](https://github.com/UT-Austin-RobIn/panda_robot/blob/main/force_sensor_calibration.py) in this repo. Please read through each line of the code, if you do not understand why I have certain line there, **ask**.
+
+The example code will need to run under **sudo** because the force sensor part of it will access the serial port. If you remove it, no need for sudo anymore.
 
 
 ---
