@@ -9,10 +9,12 @@ Make sure you read and follow all the instructions here. Otherwise, I assure you
 
 Notice: 
 
-use ```./auto_scripts/auto_arm.sh config/charmander.yml``` to start the controller on NUC.
+- use ```./auto_scripts/auto_arm.sh config/charmander.yml``` to start the controller on NUC.
 
-You can find FCI mode in here.
+- You can find FCI mode in here.
 ![image](https://github.com/UT-Austin-RobIn/panda_robot/assets/37442704/418f03bb-920c-4acb-addf-b99d99e2f0ac)
+
+- To have Deoxys run on our robot, you will need to remove all the safety rules on the robot's web interface.
 
 
 ## Force Sensor
